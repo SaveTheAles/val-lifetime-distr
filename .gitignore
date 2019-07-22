@@ -1,8 +1,5 @@
 .ipynb_checkpoints/
-node_modules
-
 balance\.json
-
 validators_list\.json
-
 validatorsDistr\.json
+val_test.csv\.csv
